@@ -1,0 +1,12 @@
+> Activate virtualenv:
+/virtualenv/bin$ source activate
+
+> Deactivate virtualenv
+$ deactivate
+
+> Required:
+- imageio
+- matplotlib
+- numpy
+- IPython
+- sklearn
